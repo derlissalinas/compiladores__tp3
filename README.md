@@ -1,11 +1,11 @@
 ## Compiladores y Lenguajes de Bajo Nivel
-### Tarea 2
-#### Análisis Sintáctico Descendente
+### Tarea 3
+#### Traductor
 
 ### Integrantes:
 - Derlis Salinas
 - Félix Gómez
 
 ### Pasos para compilación y ejecución
-    gcc ansin.c -o ansin
-    ./ansin fuente.txt
+    gcc traductor.c -o traductor
+    ./traductor fuente.txt
