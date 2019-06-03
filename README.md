@@ -1,6 +1,6 @@
 ## Compiladores y Lenguajes de Bajo Nivel
 ### Tarea 3
-#### Traductor
+#### Traducción dirigida por sintaxis
 
 ### Integrantes:
 - Derlis Salinas
